@@ -32,4 +32,8 @@ build/
 # .ruby-gemset
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+<<<<<<< HEAD
 .rvmrc
+=======
+.rvmrc
+>>>>>>> 70e2e03053abe420f58b74f8bb2349eb63d4c77a
