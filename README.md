@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jquery::Mask::Plugin
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/jquery/mask/plugin`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -23,7 +22,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add to your application.js:
+
+```ruby
+    =require jquery.mask.min.js
+```
 
 ## Development
 
@@ -39,8 +42,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-=======
-# jquery-mask-gem
-jQuery Mask PlugIn GEM
->>>>>>> 70e2e03053abe420f58b74f8bb2349eb63d4c77a
