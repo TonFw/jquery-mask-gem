@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Igor Escobar jquery mask plugin GEM by Ilton Garcia'
   spec.description   = 'Igor Escobar jquery mask plugin GEM by Ilton Garcia'
-  spec.homepage      = "https://igorescobar.github.io/jQuery-Mask-Plugin/"
+  spec.homepage      = "https://github.com/TonFw/jquery-mask-gem"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }

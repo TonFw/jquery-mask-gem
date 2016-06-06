@@ -26,7 +26,14 @@ Add to your application.js:
 
 ```ruby
     =require jquery.mask.min.js
+
+    // Example currency mask
+    if($('.currency').length) $('.currency').mask('000.000.000.000.000,00', {reverse: true});
+
 ```
+
+For more examples access:
+https://igorescobar.github.io/jQuery-Mask-Plugin/
 
 ## Development
 
